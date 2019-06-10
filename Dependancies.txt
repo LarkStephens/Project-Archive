@@ -1,0 +1,13 @@
+Expo
+React Navigation
+React Elements 
+native-base (not used)
+firebase
+
+Frontend
+AppNavigator -> LoadingScreen -> LoginScreen ->
+
+Backend
+Enabled for android,
+Firebase database,
+handle sign in flow manually,
